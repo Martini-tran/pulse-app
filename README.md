@@ -173,6 +173,10 @@ flutter pub run flutter_native_splash:create
 
 - **后端服务**: [https://github.com/Martini-tran/pulse.git](https://github.com/Martini-tran/pulse.git)
 
+## 社区交流
+
+- **QQ 群**: 923901004
+
 ## 许可证
 
 [MIT License](LICENSE)
